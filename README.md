@@ -1,7 +1,7 @@
 ### Backend and Systems programmer
 I'm a programmer who mainly works with GameMaker Studio 2 and Node.JS, occasionally integrating them in various ways such as adding OAuth functionality to GameMaker, or creating an interface between GML and Discord.js
 
-Some of ym more itneresting libraries:
+Some of my more itneresting libraries:
 
 | Repository | Repository |
 |--|--|
